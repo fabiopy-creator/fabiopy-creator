@@ -26,14 +26,6 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 
 ---
 
-## 📊 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=fabiopy-creator&theme=dark&hide_border=true&background=0d1117&ring=c8f135&fire=c8f135&currStreakLabel=c8f135)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabiopy-creator&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c8f135)
-
----
-
 ## 📬 Contato
 
 [![Instagram](https://img.shields.io/badge/@fabin0__0__0-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fabin0_0_0/)
