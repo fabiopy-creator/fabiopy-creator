@@ -17,12 +17,13 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 ## 📁 Projetos
 
 | Projeto | Descrição | Tech |
-|---|---|---|
+| :--- | :--- | :--- |
 | [Social](https://github.com/fabiopy-creator/social) | Página de links das minhas redes sociais | HTML, CSS |
 | [Organizador de Arquivos](https://github.com/fabiopy-creator/organizador-arquivos) | Script que organiza arquivos automaticamente por tipo | Python |
 | [Calculadora](https://github.com/fabiopy-creator/calculadora) | Calculadora com histórico de cálculos | HTML, CSS, JS |
 | [JARVIS-X](https://github.com/fabiopy-creator/jarvis) | Assistente pessoal com IA, monitoramento de sistema e automações | Python |
-| [Pomodoro](https://fabiopy-creator.github.io/Pomodoro/pomodoro.html) | Timer Pomodoro com SVG animado e Web Audio API | HTML, CSS, JS |
+| [Pomodoro](https://github.com/fabiopy-creator/Pomodoro) | Timer Pomodoro com SVG animado e Web Audio API | HTML, CSS, JS |
+| [Controle de Estoque](https://github.com/fabiopy-creator/Controle-de-Estoque) | Sistema de gestão de estoque modular com banco de dados local | Python, SQL |
 
 ---
 
