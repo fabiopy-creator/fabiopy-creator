@@ -11,6 +11,7 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+|[Apex ERP](https://github.com/fabiopy-creator/apex-erp) | API REST para gestão de produtos com Spring Boot e banco H2 | Java, Spring Boot |
 
 ---
 
