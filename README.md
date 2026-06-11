@@ -11,7 +11,6 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-|[Apex ERP](https://github.com/fabiopy-creator/apex-erp) | API REST para gestão de produtos com Spring Boot e banco H2 | Java, Spring Boot |
 
 ---
 
@@ -25,6 +24,8 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 | [JARVIS-X](https://github.com/fabiopy-creator/jarvis) | Assistente pessoal com IA, monitoramento de sistema e automações | Python |
 | [Pomodoro](https://github.com/fabiopy-creator/Pomodoro) | Timer Pomodoro com SVG animado e Web Audio API | HTML, CSS, JS |
 | [Controle de Estoque](https://github.com/fabiopy-creator/Controle-de-Estoque) | Sistema de gestão de estoque modular com banco de dados local | Python, SQL |
+| [Apex ERP](https://github.com/fabiopy-creator/apex-erp) | API REST para gestão de produtos com Spring Boot e banco H2 | Java, Spring Boot |
+
 
 ---
 
