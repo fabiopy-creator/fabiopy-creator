@@ -26,6 +26,7 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em automação co
 | [Pomodoro](https://github.com/fabiopy-creator/Pomodoro) | Timer Pomodoro com SVG animado e Web Audio API | HTML, CSS, JS |
 | [Controle de Estoque](https://github.com/fabiopy-creator/Controle-de-Estoque) | Sistema de gestão de estoque modular com banco de dados local | Python, SQL |
 | [Apex ERP](https://github.com/fabiopy-creator/apex-erp) | API REST para gestão de produtos com Spring Boot e banco H2 | Java, Spring Boot |
+| [Kakuja FM](https://github.com/fabiopy-creator/kakuja-FM) | Player de áudio temático e minimalista inspirado em Tokyo Ghoul | HTML, CSS, JS |
 
 
 ---
