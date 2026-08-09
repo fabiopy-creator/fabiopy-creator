@@ -6,13 +6,13 @@ Tenho 17 anos e estou construindo meu portfólio do zero. Foco em ciberseguranç
 
 ## 🛠 Tecnologias
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="28">
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=unifying-cloud&logoColor=white" alt="Cybersecurity" height="28">
-<img src="https://img.shields.io/badge/Java-b31d1d?style=flat&logo=coffeescript&logoColor=white&labelColor=b31d1d" alt="Java" height="28">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="28">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=paint brush&logoColor=white" alt="CSS" height="28">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="28">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="28">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-000000?style=flat)
+<img src="https://img.shields.io/badge/Java-b31d1d?style=flat&logo=coffeescript&logoColor=white&labelColor=b31d1d" alt="Java" height="20" style="vertical-align: middle; margin-right: 6px;">
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/🖌️_CSS-1572B6?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
