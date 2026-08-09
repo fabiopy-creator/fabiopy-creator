@@ -7,10 +7,10 @@ Tenho 18 anos e estou construindo meu portfólio do zero. Foco em ciberseguranç
 ## 🛠 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=auth0&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAFMkwzIDZ2NmMwIDE1LjU1IDMuODQgOC43NCA5IDExLjA4IDUuMTYtMi4zNCA5LTUuNTMgOS0xMVY2bC05LTR6Ii8+PC9zdmc+)
 <img src="https://img.shields.io/badge/Java-b31d1d?style=flat&logo=coffeescript&logoColor=white&labelColor=b31d1d" alt="Java" height="20" style="vertical-align: middle; margin-right: 6px;">
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=stylelint&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDE0Yy0xLjY2IDAtMyAxLjM0LTMgM3MxLjM0IDMgMyAzIDMtMS4zNCAzLTMtMS4zNC0zLTMtM3ptMTMuNzEtOS43MWMtLjM5LS4zOS0xLjAyLS4zOS0xLjQxIDBsLTIuMzQgMi4zNC0zLjA4LTMuMDhjLS4zOS0uMzktMS4wMi0uMzktMS40MSAwcy0uMzkgMS4wMiAwIDEuNDFsMy4wOCAzLjA4LTkuMTkgOS4xOWMtLjM5LjM5LS4zOSAxLjAyIDAgMS40MWwxLjQxIDEuNDFjLjM5LjM5IDEuMDIuMzkgMS40MSAwbDkuMTktOS4xOSAzLjA4IDMuMDhjLjE5LjE5LjQ0LjI5LjcxLjI5cy41Mi0uMTAuNzEtLjI5Yy4zOS0uMzkuMzktMS4wMiAwLTEuNDFsLTMuMDgtMy4wOCAyLjM0LTIuMzRjLjM5LS4zOS4zOS0xLjAyIDAtMS40MXoiLz48L3N2Zz4=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
