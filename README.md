@@ -1,6 +1,6 @@
 # Olá, eu sou o Fabio Alexandre 👋
 
-Tenho 17 anos e estou construindo meu portfólio do zero. Foco em cibersegurança, automação com Python, inteligência artificial e interfaces web. Cada projeto aqui é um passo na minha jornada como desenvolvedor e futuro fundador de uma consultoria de segurança.
+Tenho 18 anos e estou construindo meu portfólio do zero. Foco em cibersegurança, automação com Python, inteligência artificial e interfaces web. Cada projeto aqui é um passo na minha jornada como desenvolvedor e futuro fundador de uma consultoria de segurança.
 
 ---
 
