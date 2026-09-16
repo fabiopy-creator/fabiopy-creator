@@ -21,7 +21,6 @@ Tenho 18 anos e estou construindo meu portfólio do zero. Foco em ciberseguranç
 | Projeto | Descrição | Tech |
 | :--- | :--- | :--- |
 | [Argus Port Scanner](https://github.com/fabiopy-creator/argus-fate-portscanner) | Ferramenta de auditoria de redes com multithreading e fingerprinting | Python, Sec |
-| [Social](https://github.com/fabiopy-creator/social) | Página de links das minhas redes sociais | HTML, CSS |
 | [Organizador de Arquivos](https://github.com/fabiopy-creator/organizador-arquivos) | Script que organiza arquivos automaticamente por tipo | Python |
 | [Calculadora](https://github.com/fabiopy-creator/calculadora) | Calculadora com histórico de cálculos | HTML, CSS, JS |
 | [JARVIS-X](https://github.com/fabiopy-creator/jarvis) | Assistente pessoal com IA, monitoramento de sistema e automações | Python |
